@@ -1,8 +1,9 @@
-Eccommerce App
-Languages Used
+Eccommerce App :-
+
+Languages used:-
 Html, css Javascript, Python, Bootstrap
-Web Framework used 
+Web Framework used:- 
 Django
-Database used
+Database used:-
 dbsqlite3
 
